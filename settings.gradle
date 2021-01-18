@@ -1,0 +1,4 @@
+include ':app'
+//include ':TBSSDK'
+//project(':TBSSDK').projectDir = new File(settingsDir, '../../sdk/TBSSdkWrap/TBSSDK')
+rootProject.name = "TBSCoreDemo"
